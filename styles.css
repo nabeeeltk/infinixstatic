@@ -1,0 +1,291 @@
+.header{
+    background : rgb(254, 250, 250);
+    width: 100%;
+    height: 85px;
+}
+body{
+    margin: 0px;
+}
+.logoimg{
+    height: 23px;
+    padding-top: 33px;
+    width: 9%;
+    padding-left: 20px;
+    float: left;
+    padding-right: 125px;
+
+}
+.menu{
+
+}
+.name{
+    color: rgb(10, 10, 10);
+
+}
+.name li{
+    float: left;
+    margin-top: 43px;
+    margin-left: 52px;
+    list-style: none;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+}
+.icon{
+    color: black;
+    width: 25px;
+    margin-left: 216px;
+    margin-top: 40px;
+}
+.page1{
+    height: 50%;
+    width: 100%;
+    position: absolute;
+}
+.zero{
+    color: white;
+    font-size: 70px;
+    position: relative;
+    font-family:sans-serif;
+    font-weight: 700 ;
+    line-height: 75px;
+    margin-left: 128px;
+    margin-top: 227px;
+}
+.img1{
+    position: absolute;
+    width: 100%;
+}
+.c1{
+    color: white;
+    font-size: 45px;
+    position: relative;
+    font-size: x-large;
+    margin-left: 126px;
+    margin-top: -60px;
+    font-family: sans-serif;
+}
+.buttun{
+    position: relative;
+    margin-left: 124px;
+    margin-top: 87px;
+    height: 44px;
+    width: 138PX;
+    background-color: transparent;
+   color: white;
+   border: 2px solid;
+
+}
+.buttun:hover{
+    background-color: white;
+    color: black;
+}
+.page2{
+    background-color: white;
+    width: 100%;
+    height: 150px;
+    margin-top: 500px;
+    position:absolute;
+}    
+.img2{
+    width: 380px;
+    height: 500px;
+    padding-left: 137px;
+    padding-top: 41px;
+    float: left;
+}
+.best{
+    color: rgb(10, 10, 10);
+    font-size: xx-large;
+    padding-left:10px;
+    margin-top:-410px;
+    font-family: sans-serif;
+}
+.x2{
+    color: black;
+    font-weight: 100;
+    font-size: 80px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-top: -40px;
+    margin-left: 6px
+}
+.fuetuers{
+    background-color: brown;
+    height: 100%;
+    width: 60%;
+    position: absolute;
+    margin-left:528px ;
+    margin-top: 250px;
+}
+.buttun2{
+    background-color: rgb(252, 253, 248);
+    color: rgb(17, 16, 16);
+    height: 45px;
+    width: 145px;
+    margin-top: 450px;
+    margin-left: 76px;
+    position: absolute;
+
+
+}
+.buttun2:hover{
+    background-color: rgb(11, 11, 11);
+    color: rgb(255, 249, 249);
+}
+    .buttun3{
+        background-color: rgb(230, 233, 11);
+    color: rgb(14, 14, 13);
+    height: 45px;
+    width: 145px;
+    margin-top: 450px;
+    margin-left: 240px;
+    position: absolute;
+
+    }
+    .buttun3:hover{
+        background-color: rgb(240, 239, 234);
+        color: rgb(14, 13, 13);
+
+    }
+    .page3{
+        position: absolute;
+        height: 620px;
+        width: 110%;
+        margin-top: 1040px;
+        background-color: white;
+
+    }
+    .part1{
+        height: 444px;
+        width: 15%;
+        background-color: white;
+        margin-left: 112px;
+        margin-top: 45px;
+        float: left;
+    
+    }
+    .part2{
+        height: 360px;
+        width: 15%;
+        background-color: white;
+        margin-left: 18px;
+        margin-top: 45px;
+        float: left;
+
+    }
+    .part3{
+        height: 360px;
+        width: 15%;
+        background-color: white;
+        margin-left: 17px;
+        margin-top: 45px;
+        float: left;
+
+    }
+    .part4{
+        height: 360px;
+        width: 15%;
+        background-color: white;
+        margin-top: -444px;
+        margin-left: 1091px;
+        float: left;
+
+
+    }
+    .part5{
+        height: 360px;
+        width: 15%;
+        background-color: white;
+        margin-top: 45px;
+        margin-left: 845px;
+
+    }
+    .colam1text{
+        font-family: sans-serif;
+    }
+    .hr1{
+       
+     font-family: sans-serif;
+    font-size: 16px;
+}
+.text2{
+    font-family: sans-serif;
+
+}
+.hr2{
+      font-family: sans-serif;
+      font-size: 16px
+}
+    .hr3{
+        font-family: sans-serif;
+        font-size: 16px;
+    }
+    .text3{
+        font-family: sans-serif;
+    }
+    .hr4{
+        font-family: sans-serif;
+        font-size: 16px;
+        margin-left: -243px;
+
+    }
+    .text4{
+        font-family: sans-serif;
+        margin-left: -240px;
+    }
+    .page3topbar{
+        background-color: black;
+        width: 100%;
+        height: 100px;
+    }
+    hr{
+        width: 608%;
+        margin-top: 30px;
+        margin-left: -118px;
+    }
+    .footer{  
+     height: 70px;
+    width: 500%;
+    background-color: white
+    }
+    .lifapp{
+    float: left;
+    margin-top: 17px;
+    margin-left: 26px;
+    }
+    
+    .app1{
+     float: left;
+    margin-top: 22px;
+    margin-left: 105px;
+    font-size: 20px;
+    }
+    .app2{
+        float: left;
+        margin-left: 40px;
+        margin-top: 22px;
+        font-size: 20px;
+        
+    }
+    .app3{
+    float: left;
+    font-size: 20px;
+    margin-left: 23px;
+    margin-top: 25px;
+    }
+    
+    .xclubapp{
+        float: left;
+        margin-left: 23px;
+        margin-top: 18px;
+    }
+    .careapp{
+     margin-left: 18px;
+     margin-top: 21px;
+
+    }
+    .name :hover{
+        color: aqua;
+
+    }
+    
